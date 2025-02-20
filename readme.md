@@ -38,7 +38,7 @@ At present, no ongoing internet connection is required—the API key is only nee
 Place the project in your desired directory. For example, on Windows:
 
 ```bash
-git clone https://github.com/jimmc414/voice_assistant.git
+git clone https://github.com/jimmc414/voice_command_launcher.git
 ```
 
 ### 2. Install Python Dependencies
