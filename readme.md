@@ -1,4 +1,4 @@
-# Voice Assistant Project
+# Voice Command Launcher
 
 This project is a free, offline voice assistant that runs 100% locally on your machine. It leverages two efficient engines for rapid performance:
 
